@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mygallag.iml" filepath="$PROJECT_DIR$/.idea/modules/mygallag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mygallag.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mygallag.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mygallag.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mygallag.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mygallag.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mygallag.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mygallag.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mygallag.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

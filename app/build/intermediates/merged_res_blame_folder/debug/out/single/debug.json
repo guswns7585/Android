@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_baseline_cancel_presentation_24.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_baseline_cancel_presentation_24.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/raw_main_game_bgm3.mp3.flat",
+        "source": "com.taewon.mygallag.app-main-22:/raw/main_game_bgm3.mp3"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/layout_game_over_dialog.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/layout/game_over_dialog.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/raw_robby_bgm.mp3.flat",
+        "source": "com.taewon.mygallag.app-main-22:/raw/robby_bgm.mp3"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_ship_0006.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/ship_0006.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_sky_background.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/sky_background.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_shot_003.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/shot_003.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_ship_0003.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/ship_0003.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_start_activity_background.jpg.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/start_activity_background.jpg"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/raw_reload_sound.wav.flat",
+        "source": "com.taewon.mygallag.app-main-22:/raw/reload_sound.wav"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.taewon.mygallag.app-pngs-15:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_laser.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/laser.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_baseline_favorite_border_24.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_baseline_music_note_24.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_baseline_music_note_24.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_shot_004.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/shot_004.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/layout_pause_dialog.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/layout/pause_dialog.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_baseline_flash_on_24.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_baseline_flash_on_24.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/font_maplestory_bold.ttf.flat",
+        "source": "com.taewon.mygallag.app-main-22:/font/maplestory_bold.ttf"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_ship_0002.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/ship_0002.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/font_maplestory_light.ttf.flat",
+        "source": "com.taewon.mygallag.app-main-22:/font/maplestory_light.ttf"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_shot_007.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/shot_007.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_round_button_shape.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/round_button_shape.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_ship_0001.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/ship_0001.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_power_item.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/power_item.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_heal_item.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/heal_item.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_border_layout_full.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/border_layout_full.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_shot_005.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/shot_005.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/raw_main_game_bgm1.mp3.flat",
+        "source": "com.taewon.mygallag.app-main-22:/raw/main_game_bgm1.mp3"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_ship_0005.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/ship_0005.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/layout_activity_start.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_background2.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/background2.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/raw_player_hurt_sound.wav.flat",
+        "source": "com.taewon.mygallag.app-main-22:/raw/player_hurt_sound.wav"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_shot_001.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/shot_001.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/raw_main_game_bgm2.mp3.flat",
+        "source": "com.taewon.mygallag.app-main-22:/raw/main_game_bgm2.mp3"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-xxxhdpi_ship_0000.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-xxxhdpi/ship_0000.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_shot_006.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/shot_006.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/raw_player_shot_sound.wav.flat",
+        "source": "com.taewon.mygallag.app-main-22:/raw/player_shot_sound.wav"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_speed_item.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/speed_item.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_ship_0000.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/ship_0000.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_baseline_pause_circle_outline_24.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_baseline_pause_circle_outline_24.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/raw_player_get_item_sound.wav.flat",
+        "source": "com.taewon.mygallag.app-main-22:/raw/player_get_item_sound.wav"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_baseline_music_off_24.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_baseline_music_off_24.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_ship_0007.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/ship_0007.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_ic_baseline_autorenew_24.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/ic_baseline_autorenew_24.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable-v24_ship_0004.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable-v24/ship_0004.png"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.taewon.mygallag.app-main-22:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.taewon.mygallag.app-merged_res-20:/drawable_shot_002.png.flat",
+        "source": "com.taewon.mygallag.app-main-22:/drawable/shot_002.png"
+    }
+]

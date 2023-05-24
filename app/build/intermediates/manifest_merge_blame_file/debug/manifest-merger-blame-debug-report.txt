@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.taewon.mygallag"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\school\mygame\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\school\mygame\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\school\mygame\app\src\main\AndroidManifest.xml:4:5-21:19
+12        android:allowBackup="true"
+12-->C:\school\mygame\app\src\main\AndroidManifest.xml:5:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\guswn\.gradle\caches\transforms-3\6182fe6d65ef8961a040b52a46bdfbf6\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ship_0000"
+15-->C:\school\mygame\app\src\main\AndroidManifest.xml:6:9-41
+16        android:label="@string/app_name"
+16-->C:\school\mygame\app\src\main\AndroidManifest.xml:7:9-41
+17        android:roundIcon="@mipmap/ship_0000"
+17-->C:\school\mygame\app\src\main\AndroidManifest.xml:8:9-46
+18        android:supportsRtl="true"
+18-->C:\school\mygame\app\src\main\AndroidManifest.xml:9:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.AppCompat.NoActionBar" >
+20-->C:\school\mygame\app\src\main\AndroidManifest.xml:10:9-59
+21        <activity
+21-->C:\school\mygame\app\src\main\AndroidManifest.xml:11:9-18:20
+22            android:name="com.taewon.mygallag.StartActivity"
+22-->C:\school\mygame\app\src\main\AndroidManifest.xml:12:13-42
+23            android:exported="true" >
+23-->C:\school\mygame\app\src\main\AndroidManifest.xml:13:13-36
+24            <intent-filter>
+24-->C:\school\mygame\app\src\main\AndroidManifest.xml:14:13-17:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\school\mygame\app\src\main\AndroidManifest.xml:15:17-69
+25-->C:\school\mygame\app\src\main\AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\school\mygame\app\src\main\AndroidManifest.xml:16:17-77
+27-->C:\school\mygame\app\src\main\AndroidManifest.xml:16:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.taewon.mygallag.MainActivity" />
+30-->C:\school\mygame\app\src\main\AndroidManifest.xml:19:9-49
+30-->C:\school\mygame\app\src\main\AndroidManifest.xml:19:19-47
+31        <activity android:name="com.taewon.mygallag.ResultActivity" />
+31-->C:\school\mygame\app\src\main\AndroidManifest.xml:20:9-51
+31-->C:\school\mygame\app\src\main\AndroidManifest.xml:20:19-49
+32    </application>
+33
+34</manifest>
